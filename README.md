@@ -11,7 +11,7 @@ Este é um projeto de modal simples criado com HTML, CSS e JavaScript, que apres
 
 <img src="https://i.imgur.com/wt09LVD.gif" alt="GIF" data-canonical-src="https://i.imgur.com/wt09LVD.gif" style="max-width: 50%;">
 
-<img src="https://i.imgur.com/jLTbvbM.gif" alt="GIF" data-canonical-src="https://i.imgur.com/jLTbvbM.gif" style="max-width: 50%;">
+<img src="https://i.imgur.com/wt09LVD.gifv" alt="GIF" data-canonical-src="https://i.imgur.com/wt09LVD.gifv" style="max-width: 50%;">
 
 ## Recursos
 
