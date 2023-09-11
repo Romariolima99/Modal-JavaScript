@@ -9,7 +9,7 @@ Este modal fornece uma maneira fácil de exibir conteúdo adicional em uma sobre
 
 <img src="https://i.imgur.com/cY8mFVq.png" alt="GIF" data-canonical-src="https://i.imgur.com/SkUqoYj.giff" style="max-width: 50%;">
 
-<img src="hhttps://i.imgur.com/F4ltDHz.png" alt="GIF" data-canonical-src="https://i.imgur.com/SkUqoYj.giff" style="max-width: 50%;">
+<img src="https://i.imgur.com/F4ltDHz.png" alt="GIF" data-canonical-src="https://i.imgur.com/SkUqoYj.giff" style="max-width: 50%;">
 
 ## Recursos
 
