@@ -17,8 +17,7 @@ Este é um projeto de modal simples criado com HTML, CSS e JavaScript, que apres
 - Fácil integração em projetos existentes.
 - Personalização simples usando CSS.
 - JavaScript leve para controlar o comportamento do modal.
-
-_ Personalize o modal ajustando o `HTML, CSS e JavaScript` conforme necessário para atender às suas necessidades específicas.
+-  Personalize o modal ajustando o `HTML, CSS e JavaScript` conforme necessário para atender às suas necessidades específicas.
 
 ##  Personalização
 - Você pode personalizar o modal alterando o arquivo `style.css` Altere as cores, o tamanho, a fonte e outros estilos para combinar com o design do seu site.
