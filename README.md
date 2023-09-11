@@ -1,10 +1,10 @@
-# Modal# Modal Simples com Fundo Degradê Animado
+## Modal Simples com Fundo Degradê Animado
 
 Este é um projeto de modal simples criado com HTML, CSS e JavaScript, que apresenta um fundo degradê animado
 
 ## Visão Geral
 
-Este modal fornece uma maneira fácil de exibir conteúdo adicional em uma sobreposição de fundo degradê suave. Ele pode ser personalizado e incorporado facilmente em seus projetos web.
+- Este modal fornece uma maneira fácil de exibir conteúdo adicional em uma sobreposição de fundo degradê suave. Ele pode ser personalizado e incorporado facilmente em seus projetos web.
 
 
 <img src="https://i.imgur.com/cY8mFVq.png" alt="GIF" data-canonical-src="https://i.imgur.com/SkUqoYj.giff" style="max-width: 50%;">
