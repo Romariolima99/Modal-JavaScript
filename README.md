@@ -18,18 +18,17 @@ Este modal fornece uma maneira fácil de exibir conteúdo adicional em uma sobre
 - Personalização simples usando CSS.
 - JavaScript leve para controlar o comportamento do modal.
 
-## Como Usar
-
-1. Clone este repositório em sua máquina local:
-
-git clone [https://github.com/seu-usuario/modal-degradê-animado](https://github.com/Romariolima99/Modal/).git
-
-Abra o arquivo index.html em seu navegador.
-
-Clique no botão "Abrir Modal" para ver o modal em ação.
-
-Personalize o modal ajustando o HTML, CSS e JavaScript conforme necessário para atender às suas necessidades específicas.
+_ Personalize o modal ajustando o `HTML, CSS e JavaScript` conforme necessário para atender às suas necessidades específicas.
 
 - Personalização
 Você pode personalizar o modal alterando o arquivo `style.css` Altere as cores, o tamanho, a fonte e outros estilos para combinar com o design do seu site.
 
+## Como Usar
+
+1. Clone este repositório em sua máquina local:
+
+´´´shell git clone https://github.com/Romariolima99/Modal.git
+
+Abra o arquivo index.html em seu navegador.
+
+Clique no botão "Abrir Modal" para ver o modal em ação.
