@@ -8,7 +8,7 @@ Este modal fornece uma maneira fácil de exibir conteúdo adicional em uma sobre
 
 ![Modal Demo]([modal-demo.gif](https://imgur.com/cY8mFVq))
 
-<img src="https://i.imgur.com/lCz1LwA.png" alt="GIF" data-canonical-src="https://i.imgur.com/SkUqoYj.giff" style="max-width: 50%;">
+<img src="https://i.imgur.com/cY8mFVq.png" alt="GIF" data-canonical-src="https://i.imgur.com/SkUqoYj.giff" style="max-width: 50%;">
 
 ## Recursos
 
